@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xab:home|Door43 (xab)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xab|d43-xab repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xab/archive/master.zip|d43-xab.zip]]
+
+**Recent Changes**
+{{changes>ns = xab}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xab|Ethnologue data]]
+
